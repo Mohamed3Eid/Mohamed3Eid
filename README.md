@@ -1,6 +1,6 @@
 # Mohamed Eid
 
-## About Me 
+## About
 
 I am a dedicated UI Developer with a strong focus on creating modern, responsive, and user-friendly web interfaces.
 
@@ -24,7 +24,7 @@ I am a dedicated UI Developer with a strong focus on creating modern, responsive
 - Performance optimization and clean code practices.
 
 
-## Connect me
+## Connect
 
 - Feel free to reach out for any questions, collaborations, or project ideas. I'm always open to new opportunities and exciting challenges.
 
