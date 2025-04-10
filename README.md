@@ -28,7 +28,7 @@ I am a dedicated UI Developer with a strong focus on creating modern, responsive
 
 - Feel free to reach out for any questions, collaborations, or project ideas. I'm always open to new opportunities and exciting challenges.
 
-     "Thanks for visiting my profile!"
+     "Thanks for visiting my profile."
 
 
 <!--
