@@ -2,19 +2,13 @@
 
 ## About
 
-I am a dedicated UI Developer with a strong focus on creating modern, responsive, and user-friendly web interfaces.
-
-- Experienced in building interfaces using HTML5, CSS3, TailwindCSS, and Bootstrap.  
-- Skilled in version control with Git and platforms like GitHub.
-- Proficient in collaborating with designers using Figma.  
-- Focused on performance, accessibility, and responsive design principles.
-- Detail-oriented and continuously improving through learning and hands-on practice.
-- Passionate about turning design concepts into clean, functional, and interactive user experiences.
+I am a passionate UI Developer with hands-on experience building responsive, user-friendly web interfaces using HTML, CSS, TailwindCSS, and Bootstrap.
+I turn design concepts into clean, pixel-perfect interfaces with a strong focus on detail, performance, and seamless team collaboration using Git, GitHub, and Figma.
 
 ## Skills
 
-- HTML5 and semantic markup.
-- CSS3 with modern layout techniques.
+- HTML and semantic markup.
+- CSS with modern layout techniques.
 - TailwindCSS for utility-first styling.
 - Bootstrap for responsive component-based design.  
 - Git and GitHub for version control and collaboration.  
