@@ -2,9 +2,12 @@
 
 ## About
 
-I am a passionate UI Developer with hands-on experience building responsive, user-friendly web interfaces using HTML, CSS, TailwindCSS, and Bootstrap.
-I turn design concepts into clean, pixel-perfect interfaces with a strong focus on detail, performance, and seamless team collaboration using Git, GitHub, and Figma.
-
+I am a passionate UI Developer with hands-on experience 
+building responsive design, user-friendly web interfaces 
+using HTML, CSS, Tailwind CSS, and Bootstrap.
+ I turn design concepts into clean, pixel-perfect interfaces 
+with a strong focus on detail, performance, and seamless 
+team collaboration using Git, GitHub, and Figma.
 ## Skills
 
 - HTML and semantic markup.
